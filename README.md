@@ -1,5 +1,4 @@
 
-Aquí tienes una versión del README que utiliza analogías para hacerlo más creativo y ameno:
 
 🌟 Proyecto de API de Gestión de Productos: Tu Tienda Digital en Miniatura 🌟
 Imagina que tienes una pequeña tienda donde puedes gestionar tus productos: agregar nuevos artículos, mostrar tu catálogo y eliminar los que ya no necesites. Este proyecto es precisamente eso, pero en formato digital. 🚀
